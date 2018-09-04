@@ -1,0 +1,9 @@
+c:\users\ceren\documents\visual studio 2012\Projects\Procedure\Procedure\bin\Debug\Procedure.exe.config
+c:\users\ceren\documents\visual studio 2012\Projects\Procedure\Procedure\bin\Debug\Procedure.exe
+c:\users\ceren\documents\visual studio 2012\Projects\Procedure\Procedure\bin\Debug\Procedure.pdb
+c:\users\ceren\documents\visual studio 2012\Projects\Procedure\Procedure\obj\Debug\Procedure.csprojResolveAssemblyReference.cache
+c:\users\ceren\documents\visual studio 2012\Projects\Procedure\Procedure\obj\Debug\Procedure.Form1.resources
+c:\users\ceren\documents\visual studio 2012\Projects\Procedure\Procedure\obj\Debug\Procedure.Properties.Resources.resources
+c:\users\ceren\documents\visual studio 2012\Projects\Procedure\Procedure\obj\Debug\Procedure.csproj.GenerateResource.Cache
+c:\users\ceren\documents\visual studio 2012\Projects\Procedure\Procedure\obj\Debug\Procedure.exe
+c:\users\ceren\documents\visual studio 2012\Projects\Procedure\Procedure\obj\Debug\Procedure.pdb
